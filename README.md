@@ -2,7 +2,7 @@
   
 <h2> Requirements
   
-<h3>  
+  
   1. Python 2.7
   2. Pytorch 1.1.0
   3. numpy, PIL, matplotlib
